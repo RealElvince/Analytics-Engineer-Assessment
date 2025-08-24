@@ -4,6 +4,7 @@
 - `database/create_watu_credit.sql` → Creates the database and tables
 - `data/insert_data.sql` → Inserts sample data into tables
 - `queries/assessment_queries.sql` → Contains SQL solutions to assessment questions
+- `snapshots/` → Screenshots of successful query outputs
 
 ## 📊 Tables
 - **client** → Stores client personal details
